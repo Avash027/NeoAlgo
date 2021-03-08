@@ -1,7 +1,8 @@
 /***
  *  selection sort is an in-place comparison sorting algorithm.
  *  Time Complexity of algorithm O(n^2) where n is the size of the array.
- *  It is one of the easy sorting algorithm.
+ *  Auxiliary Space: O(1)
+ *  It is one of the easy sorting algorithm .
  */
 
 function SelectionSort(arr) {
