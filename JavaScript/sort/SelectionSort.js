@@ -34,6 +34,6 @@ function SelectionSort(arr) {
  * This is the test case
  */
 
-// let arr = [5, 1, 2, 9, 0, 5, 1];
-// SelectionSort(arr);
-// console.log(arr);
+let arr = [5, 1, 2, 9, 0, 5, 1];
+SelectionSort(arr);
+console.log(arr);
